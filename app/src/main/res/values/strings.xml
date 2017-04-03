@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FDMS</string>
+    <string name="action_login">Login</string>
+    <string name="title_user_name">User Name</string>
+    <string name="title_password">Password</string>
+    <string name="action_forgot_password">Forgot password?</string>
+    <string name="title_don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="title_create_account_now">Create Account Now</string>
+    <string name="title_first_name">First Name</string>
+    <string name="title_last_name">Last Name</string>
+    <string name="title_email">Email</string>
+    <string name="title_confirm_password">Confirm Password</string>
+    <string name="title_adress">Adress</string>
+    <string name="title_role">Role</string>
+    <string name="title_department">Department</string>
+    <string name="action_create_account">create account</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_up">sign up</string>
+    <string name="msg_notice_progress">This function is in progress!</string>
+    <string name="title_device_app">Device</string>
+    <string name="menu_search">Search</string>
+    <string name="msg_sort_by_date">Sorted by date</string>
+    <string name="msg_sort_by_category">Sorted by category</string>
+    <string name="msg_sort_by_status">Sorted by status</string>
+    <string name="action_sort_by_date">Sort by Date</string>
+    <string name="action_sort_by_category">Sort by Category</string>
+    <string name="action_sort_by_status">Sort by Status</string>
+    <string name="title_name_device">Name Device: </string>
+    <string name="title_date_device">Date: </string>
+    <string name="title_category">Category: </string>
+</resources>
